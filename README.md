@@ -28,7 +28,7 @@ Screenshot hasil aplikasi bisa dilihat di folder `screenshot/`.
 
 ### Database MySQL
 
-![Database](screenshot/5.ssdmysql.png)
+![Database](screenshot/5.ssdimysql.png)
 
 ## Fitur
 
